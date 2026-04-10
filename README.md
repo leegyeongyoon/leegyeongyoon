@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gyeongyoon Lee
+# Gyoungyoon Lee
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A0ADB8&center=true&vCenter=true&repeat=true&width=380&height=30&lines=DevOps+Engineer+%40+Classting)](https://git.io/typing-svg)
 
