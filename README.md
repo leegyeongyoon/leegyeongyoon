@@ -64,7 +64,7 @@ focus:
 ### GitHub Stats
 
 <div align="center">
-<img src="https://leegyeongyoon-yxyw.vercel.app/api?username=leegyeongyoon&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=percentile" height="165" />
+<img src="https://leegyeongyoon-yxyw.vercel.app/api?username=leegyeongyoon&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&include_all_commits=true&count_private=true" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=leegyeongyoon&hide_border=true&background=00000000&ring=8b949e&fire=c9d1d9&currStreakNum=c9d1d9&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" height="165" />
 </div>
 
